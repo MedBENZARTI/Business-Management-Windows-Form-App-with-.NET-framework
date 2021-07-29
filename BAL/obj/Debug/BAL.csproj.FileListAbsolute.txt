@@ -1,0 +1,15 @@
+D:\Documents\Devlopement\.NET\Project\BAL\bin\Debug\BAL.dll
+D:\Documents\Devlopement\.NET\Project\BAL\bin\Debug\BAL.pdb
+D:\Documents\Devlopement\.NET\Project\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+D:\Documents\Devlopement\.NET\Project\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\Documents\Devlopement\.NET\Project\BAL\obj\Debug\BAL.dll
+D:\Documents\Devlopement\.NET\Project\BAL\obj\Debug\BAL.pdb
+D:\Documents\Devlopement\.NET\Project .net\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+D:\Documents\Devlopement\.NET\Project .net\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\Documents\Devlopement\.NET\Project .net\BAL\obj\Debug\BAL.dll
+D:\Documents\Devlopement\.NET\Project .net\BAL\obj\Debug\BAL.pdb
+D:\Documents\Devlopement\.NET\Project .net\BAL\bin\Debug\BAL.dll
+D:\Documents\Devlopement\.NET\Project .net\BAL\bin\Debug\BAL.pdb
+D:\Documents\Devlopement\.NET\Project .net\BAL\bin\Debug\DAL.dll
+D:\Documents\Devlopement\.NET\Project .net\BAL\bin\Debug\DAL.pdb
+D:\Documents\Devlopement\.NET\Project .net\BAL\obj\Debug\BAL.csproj.CopyComplete

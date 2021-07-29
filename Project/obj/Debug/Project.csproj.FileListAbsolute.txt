@@ -1,0 +1,10 @@
+D:\Documents\Devlopement\.NET\Project\Project\bin\Debug\Project.exe.config
+D:\Documents\Devlopement\.NET\Project\Project\bin\Debug\Project.exe
+D:\Documents\Devlopement\.NET\Project\Project\bin\Debug\Project.pdb
+D:\Documents\Devlopement\.NET\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Documents\Devlopement\.NET\Project\Project\obj\Debug\Project.Form1.resources
+D:\Documents\Devlopement\.NET\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Documents\Devlopement\.NET\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Documents\Devlopement\.NET\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Documents\Devlopement\.NET\Project\Project\obj\Debug\Project.exe
+D:\Documents\Devlopement\.NET\Project\Project\obj\Debug\Project.pdb

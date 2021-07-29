@@ -1,0 +1,11 @@
+D:\Documents\Devlopement\.NET\Project\DAL\bin\Debug\DAL.dll
+D:\Documents\Devlopement\.NET\Project\DAL\bin\Debug\DAL.pdb
+D:\Documents\Devlopement\.NET\Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Documents\Devlopement\.NET\Project\DAL\obj\Debug\DAL.dll
+D:\Documents\Devlopement\.NET\Project\DAL\obj\Debug\DAL.pdb
+D:\Documents\Devlopement\.NET\Project .net\DAL\bin\Debug\DAL.dll
+D:\Documents\Devlopement\.NET\Project .net\DAL\bin\Debug\DAL.pdb
+D:\Documents\Devlopement\.NET\Project .net\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Documents\Devlopement\.NET\Project .net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Documents\Devlopement\.NET\Project .net\DAL\obj\Debug\DAL.dll
+D:\Documents\Devlopement\.NET\Project .net\DAL\obj\Debug\DAL.pdb
